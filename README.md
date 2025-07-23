@@ -8,7 +8,7 @@ This project predicts whether a telecom customer is likely to churn based on the
 
 ## 🚀 Live Demo
 
-🔗 [Try the App on Streamlit](https://customer-churnprediction-95rsdghbnzdztf9qhsnduz.streamlit.app)
+🔗 [Try the App on Streamlit](https://customerchurnprediction-8865.streamlit.app/)
 
 
 ---
