@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the model and encoders
-with open("logistic_model.pkl", "rb") as f:
+with open("CustomerChurnPrediction/logistic_model.pkl", "rb") as f:
     model_data = pickle.load(f)
 
 model = model_data['model']
